@@ -1,6 +1,7 @@
 numpy
 gudhi
-jupyter notebook
+notebook
+ipykernel
 matplotlib
 scikit-tda
-sklearn
+scikit-learn
